@@ -98,7 +98,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/sR8Ws3KsHJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
  
-## Profile View and Editing View 
-Here's a walkthrough of implemented user stories:
+## Finished Product 
+Here's a walkthrough of implemented user stories & more:
 
 <img src='https://streamable.com/j424au' title='Video Walkthrough' width='' alt='Video Walkthrough' />
