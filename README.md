@@ -25,10 +25,10 @@ An iOS application for finding study partners.
 
 **Required Must-have Stories**
 
-- [ ] Login and Sign Up
+- [X] Login and Sign Up
 - [ ] Message
 - [X] Profile View and Creation 
-- [ ] Homepage to View other Profiles
+- [X] Homepage to View other Profiles
 
 
 
@@ -98,3 +98,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/sR8Ws3KsHJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
  
+## Profile View and Editing View 
+Here's a walkthrough of implemented user stories:
+
+<img src='https://streamable.com/j424au' title='Video Walkthrough' width='' alt='Video Walkthrough' />
