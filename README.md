@@ -100,5 +100,4 @@ Here's a walkthrough of implemented user stories:
  
 ## Finished Product 
 Here's a walkthrough of implemented user stories & more:
-
-<img src='[https://streamable.com/j424au' title='Video Walkthrough' width='' alt='Video Walkthrough](https://drive.google.com/file/d/1Megx8k5FyD07QyawMqsTHA-TWJPyd9Em/view?usp=sharing)' />
+https://drive.google.com/file/d/1Megx8k5FyD07QyawMqsTHA-TWJPyd9Em/view?usp=sharing
