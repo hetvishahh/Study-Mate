@@ -1,5 +1,7 @@
 # Study Mate
 
+![image](https://github.com/user-attachments/assets/0d76553b-ba90-4dfc-90d5-1d475136da11)
+
 ## Overview
 ### Description
 An iOS application for finding study partners.
