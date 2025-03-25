@@ -87,17 +87,11 @@ An iOS application for finding study partners.
 * (POST) Create a new message
 * (GET) Retrieve all previous messages every time view loads
 
-#### Profile Screen
+#### Profile Screen, Profile View, and Editing View
 --
 * (PUT) Change the user's name, image, major, bio, etc.
 * (GET) Get all current  user info every time view loads
-
-## Profile View and Editing View 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/sR8Ws3KsHJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
  
 ## Finished Product 
 Here's a walkthrough of implemented user stories & more:
-https://drive.google.com/file/d/1Megx8k5FyD07QyawMqsTHA-TWJPyd9Em/view?usp=sharing
+[StudyMate Walkthrough!](https://drive.google.com/file/d/1Megx8k5FyD07QyawMqsTHA-TWJPyd9Em/view?usp=sharing)
