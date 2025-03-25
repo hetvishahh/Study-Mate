@@ -1,41 +1,8 @@
-Group 14 
-===
-
 # Study Mate
-
-## Table of Contents
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
 
 ## Overview
 ### Description
 An iOS application for finding study partners.
-
-### App Evaluation
-- **Category:**
-- **Mobile:** 
-- **Story:** 
-- **Market:** 
-- **Habit:** 
-- **Scope:** 
-
-## Product Spec
-### 1. User Stories (Required and Optional)
-
-**Required Must-have Stories**
-
-- [X] Login and Sign Up
-- [ ] Message
-- [X] Profile View and Creation 
-- [X] Homepage to View other Profiles
-
-
-
-### 2. Screen Archetypes
-
-
-### 3. Navigation
 
 
 ## Wireframes
