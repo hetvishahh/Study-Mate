@@ -1,6 +1,9 @@
 # Study Mate
 
-![image](https://github.com/user-attachments/assets/0d76553b-ba90-4dfc-90d5-1d475136da11)
+<img width="517" alt="Screen Shot 2025-03-24 at 10 55 48 PM" src="https://github.com/user-attachments/assets/e4c092f7-7f05-41ef-adf0-20b326097210" />
+
+
+
 
 ## Overview
 ### Description
